@@ -64,4 +64,5 @@ Path to the source directory.
 
 MIT © [Makarian Vladyslav](https://github.com/vldmkr)
 
+[gulp]:    https://github.com/gulpjs/gulp
 [npm]:     https://badge.fury.io/js/gulp-base64-favicon
