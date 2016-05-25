@@ -15,10 +15,8 @@ module.exports = function(obj) {
     if (file.isBuffer()) {
       var htmlContents = String(file.contents);
       var matchArray = htmlContents.match(FIND_REGEXP);
-      console.log(matchArray);
       if(matchArray && matchArray.length === 1) {
         var match = matchArray[0].replace(DEL_REGEXP, '').trim();
-        console.log(match);
         fs.readFile(path.join(src, match), 'binary', function(err, data) {
           if (err) {
             callback(new gutil.PluginError(PLUGIN_NAME, err));
