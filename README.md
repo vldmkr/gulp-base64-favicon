@@ -1,4 +1,4 @@
-# [gulp][gulp]-base64-favicon
+# [gulp][gulp]-base64-favicon [![npm version](https://badge.fury.io/js/gulp-base64-favicon.svg)][npm]
 
 ## Install
 
@@ -39,6 +39,29 @@ In the output directory you will find your index.html with the following content
 </head>  
 ```
 
+## API
+
+### favicon(src)
+
+#### src
+Type: `String`
+
+Path to the source directory.
+
+### favicon(obj)
+
+#### obj
+Type: `Object`
+
+Container for data.
+
+#### obj.src
+Type: `String`
+
+Path to the source directory.
+
 ## License
 
 MIT © [Makarian Vladyslav](https://github.com/vldmkr)
+
+[npm]:     https://badge.fury.io/js/gulp-base64-favicon
