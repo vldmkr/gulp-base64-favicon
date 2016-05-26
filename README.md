@@ -1,4 +1,4 @@
-# [gulp][gulp]-base64-favicon [![npm version](https://badge.fury.io/js/gulp-base64-favicon.svg)][npm] [![Dependency Status](https://gemnasium.com/badges/github.com/vldmkr/gulp-base64-favicon.svg)][deps]
+# [gulp][gulp]-base64-favicon [![npm version](https://badge.fury.io/js/gulp-base64-favicon.svg)][npm] [![Dependency Status](https://gemnasium.com/badges/github.com/vldmkr/gulp-base64-favicon.svg)][deps] [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)][license]
 
 ## Install
 
@@ -64,6 +64,7 @@ Path to the source directory.
 
 MIT © [Makarian Vladyslav](https://github.com/vldmkr)
 
-[gulp]:   https://github.com/gulpjs/gulp
-[npm]:    https://badge.fury.io/js/gulp-base64-favicon
-[deps]:   https://gemnasium.com/github.com/vldmkr/gulp-base64-favicon
+[gulp]:     https://github.com/gulpjs/gulp
+[npm]:      https://badge.fury.io/js/gulp-base64-favicon
+[deps]:     https://gemnasium.com/github.com/vldmkr/gulp-base64-favicon
+[license]:  https://github.com/vldmkr/gulp-base64-favicon/blob/master/LICENSE
