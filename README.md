@@ -1,4 +1,4 @@
-# [gulp][gulp]-base64-favicon [![npm version](https://badge.fury.io/js/gulp-base64-favicon.svg)][npm] [![Dependency Status](https://gemnasium.com/badges/github.com/vldmkr/gulp-base64-favicon.svg)][deps] [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)][license]
+# [gulp][gulp]-base64-favicon [![npm version](https://badge.fury.io/js/gulp-base64-favicon.svg)][npm] [![Dependency Status](https://gemnasium.com/badges/github.com/vldmkr/gulp-base64-favicon.svg)][deps] [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)][license] [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9912327f02874430b3f0141a14f5ab0a)][codacy]
 
 ## Install
 
@@ -68,3 +68,4 @@ MIT © [Makarian Vladyslav](https://github.com/vldmkr)
 [npm]:      https://badge.fury.io/js/gulp-base64-favicon
 [deps]:     https://gemnasium.com/github.com/vldmkr/gulp-base64-favicon
 [license]:  https://github.com/vldmkr/gulp-base64-favicon/blob/master/LICENSE
+[codacy]:   https://www.codacy.com/app/vladmakaryan/gulp-base64-favicon?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vldmkr/gulp-base64-favicon&amp;utm_campaign=Badge_Grade
