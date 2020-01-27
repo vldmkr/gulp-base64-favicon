@@ -31,7 +31,7 @@ module.exports = function(obj) {
           }
         });
       } else {
-        callback(new gutil.PluginError(PLUGIN_NAME, 'The correct key is not found, match array: ' + matchArray));
+        callback(null, file);
       }
     } else {
       callback(new gutil.PluginError(PLUGIN_NAME, 'Not supporting contents type'));
